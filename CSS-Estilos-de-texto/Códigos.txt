@@ -1,0 +1,18 @@
+- font-family: Arial, Helvetica, sans-serif;
+- font-size: 16px, 1.2rem;
+- font-weight: bold, normal;
+- font-style: normal, italic, oblique;
+
+- text-align: center, left, right, justify;
+- text-decoration: underline, none;
+- line-height: 1.5em;
+
+
+- text-transform: uppercase, lowercase, capitalize;
+- letter-spacing: valor em pixels ou em;
+- word-spacing: valor em pixels ou em;
+- text-shadow: valor horizontal, valor vertical, valor de desfoque, cor;
+
+- white-space: normal, nowrap, pre, pre-wrap, pre-line.
+- Uso de fontes externas
+- Uso da pasta fontes para download da fonte
