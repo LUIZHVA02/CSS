@@ -1,13 +1,14 @@
 /*reset*/
 @font-face{
     font-family: WolfintheCity;
-    src: local(WolfintheCity) url(../CSS-Estilos-de-texto/WolfintheCity-Regular.ttf);
+    src: url(../CSS-Estilos-de-texto/WolfintheCity.ttf);
+}
 }
 #font-element{
     font-family: WolfintheCity;
 }
 body{
-    font-family: 'Times New Roman', Times, serif;
+    font-family: WolfintheCity;
 }
 .title{
     line-height: 5rem;
@@ -15,6 +16,10 @@ body{
 body{
     background-color: green;
     height: 80%;
+}
+header{
+    font-size: 30px;
+    font-family: WolfintheCity;
 }
 main{
     background-color: gold;
